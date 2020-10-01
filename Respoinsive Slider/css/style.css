@@ -56,9 +56,10 @@ a{
 	letter-spacing: 2px;
 	font-family: bebas kai;
 	font-size: 12px;
+	margin-top: 2px;
 }
 .logo{
-	height: 20px;
+	height: 10px;
 }
 .box:hover{
 	background-color: #17171d;
@@ -77,7 +78,7 @@ a{
 		height: 500px;
 	}
 	.model{
-		height:250px;
+		height:200px;
 	}
 	.details p{
 		font-size: 16px;
