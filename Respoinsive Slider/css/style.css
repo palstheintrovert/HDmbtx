@@ -59,7 +59,9 @@ a{
 	margin-top: 2px;
 }
 .logo{
-	height: 10px;
+	width: 100%;
+	height: auto;
+	align-items: center;
 }
 .box:hover{
 	background-color: #17171d;
