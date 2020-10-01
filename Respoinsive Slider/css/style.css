@@ -12,7 +12,7 @@ a{
 }
 .container{
 	width:100%;
-	height: 360px;
+	height: 370px;
 	background: none;
 	display:flex;
 	justify-content: center;
@@ -55,7 +55,7 @@ a{
 	font-weight: bold;
 	letter-spacing: 2px;
 	font-family: bebas kai;
-	font-size: 10px;
+	font-size: 12px;
 }
 .logo{
 	height: 20px;
