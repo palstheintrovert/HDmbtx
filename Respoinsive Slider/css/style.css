@@ -72,17 +72,19 @@ a{
 	transition: all ease 0.5s;
 }
 /*--responsive for mobile phone--*/
-@media(max-width:720px){
+@media(max-width:800px){
 	.box{
 		width: 94%;
-		height: 500px;
+		height: 300px;
 	}
 	.model{
 		height:200px;
 	}
 	.details p{
-		font-size: 16px;
+		font-size: 12px;
 		width: 200px;
 	}
-	
+	.logo{
+	height: 0px;
 }
+
