@@ -49,13 +49,13 @@
 	display: flex;
 	flex-direction: column;
 }
-.container1  .contactInfo .box
+.container1  .contactInfo .box1
 {
 	position: relative;
 	padding: 20px 0;
 	display: flex;
 }
-.container1  .contactInfo .box .icon
+.container1  .contactInfo .box1 .icon
 {
 	min-width: 60px;
 	height: 60px;
@@ -66,7 +66,7 @@
 	border-radius: 50%;
 	font-size: 22px;	
 }
-.container1  .contactInfo .box .text
+.container1  .contactInfo .box1 .text
 {
 	display: flex;
 	margin-left: 20px;
@@ -75,7 +75,7 @@
 	flex-direction: column;
 	font-weight: 300;
 }
-.container1  .contactInfo .box .text h3
+.container1  .contactInfo .box1 .text h3
 {
 	font-weight: 500;
 	color: #E07E02;	
@@ -92,14 +92,14 @@
 	color: #333;
 	font-weight: 500;	
 }
-.contactForm .inputBox
+.contactForm .inputbox1
 {
 	position: relative;
 	width: 100%;
 	margin-top: 10px;
 }
-.contactForm .inputBox input,
-.contactForm .inputBox textarea
+.contactForm .inputbox1 input,
+.contactForm .inputbox1 textarea
 {
 	width: 100%;
 	padding: 5px 0;
@@ -110,7 +110,7 @@
 	outline: none;
 	resize: none;	
 }
-.contactForm .inputBox span
+.contactForm .inputbox1 span
 {
 	position: absolute;
 	left: 0;
@@ -121,16 +121,16 @@
 	transition: 0.5s;
 	color: #666;
 }
-.contactForm .inputBox input:focus ~ span,
-.contactForm .inputBox input:valid ~ span,
-.contactForm .inputBox textarea:focus ~ span,
-.contactForm .inputBox textarea:valid ~ span
+.contactForm .inputbox1 input:focus ~ span,
+.contactForm .inputbox1 input:valid ~ span,
+.contactForm .inputbox1 textarea:focus ~ span,
+.contactForm .inputbox1 textarea:valid ~ span
 {
 	color: #e91e63;
 	font-size: 12px;
 	transform: translateY(-20px);	
 }
-.contactForm .inputBox input[type="submit"]
+.contactForm .inputbox1 input[type="submit"]
 {
 	width: 100px;
 	background: #00bcd4;
