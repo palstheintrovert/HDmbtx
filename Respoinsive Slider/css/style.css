@@ -33,7 +33,7 @@ a{
 	margin: 20px 10px;
 }
 .model{
-	height: 200px;
+	height: 300px;
 	max-height: 100%;
 	max-width: 100%;
 }
@@ -48,7 +48,8 @@ a{
 	font-weight: bold;
 	color:#6a6a74;
 	text-align: center;
-	margin-top: 15px;
+	margin-top: 0px;
+	margin-bottom: 5px;
 }
 .marvel{
 	color:#32323e;
