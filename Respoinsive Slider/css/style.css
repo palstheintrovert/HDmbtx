@@ -61,7 +61,7 @@ a{
 	margin-top: 2px;
 }
 .logo{
-	height: 90px;
+	height: 70px;
 }
 .box:hover{
 	background-color: #17171d;
@@ -72,6 +72,10 @@ a{
 .box:hover .marvel{
 	color:#c0292b;
 	transition: all ease 0.5s;
+}
+.box:hover .details p{
+	color:#CB5333;
+	transition: all ease 0.2s;
 }
 /*--responsive for mobile phone--*/
 @media(max-width:800px){
